@@ -42,7 +42,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gXSu7YV.jpg" group-title="HTVC",HTVC Thể Thao HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2019-05-22/6833055-9051942-plus.png" group-title="HTVC",HTVC Plus
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
@@ -138,35 +138,53 @@ https://livecdn.fptplay.net/sdb/vtc16_2000.stream/chunklist.m3u8
 
 #EXTM3U Quốc Tế
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png" group-title="Quốc Tế", FOX SPORT
-http://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1OTg1MDIwNTUsICJyZXNvdXJjZV9pZCI6ICJmb3hzcG9ydHNfMjAwMCIsICJwYXJ0bmVyX2lkIjogIjU3MTNiZThjMDdlNDJlZDRiOTE2Mzg4ZSIsICJ0b2tlbiI6ICJjNDM5Njg5YjIzNmM0MGIyMTNkMjNkMjU3OWE4ZmM4MSIsICJ2YWxpZF9taW51dGVzIjogMTU5ODU4ODQ1NSwgInJtaXAiOiAiMTE4LjY5LjM3LjEyIn0=
+#EXTINF:-1 group-title="QUỐC TẾ", FOX SPORT HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png" group-title="Quốc Tế", FOX SPORT 2
-http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1OTg1MDIyMzMsICJyZXNvdXJjZV9pZCI6ICJmb3hzcG9ydHMyXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiNjcwM2JhOTlkMDEzY2M0YzJiNjY0N2Q2NTMyOTIxNWEiLCAidmFsaWRfbWludXRlcyI6IDE1OTg1ODg2MzMsICJybWlwIjogIjExOC42OS4zNy4xMiJ9
+#EXTINF:-1 group-title="QUỐC TẾ", FOX SPORT 2 HD
+https://vips-livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u
+#https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png" group-title="Quốc Tế", FOX SPORT 3
-http://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b450000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1OTg1MDIyOTIsICJyZXNvdXJjZV9pZCI6ICJmb3hzcG9ydHMzX2hscyIsICJwYXJ0bmVyX2lkIjogIjU3MTNiZThjMDdlNDJlZDRiOTE2Mzg4ZSIsICJ0b2tlbiI6ICI5YTliNGY5N2EzYjMxNzM4ZjViMWVlOTBkOGVkNzVmMSIsICJ2YWxpZF9taW51dGVzIjogMTU5ODU4ODY5MiwgInJtaXAiOiAiMTE4LjY5LjM3LjEyIn0=
+#EXTINF:-1 group-title="QUỐC TẾ", FOX SPORT 3 HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="QUỐC TẾ", BOX
-http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/chunklist_w1034019798_b4692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50%3D
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
+
 #EXTINF:-1 group-title="QUỐC TẾ", HoLLyWod
-http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/chunklist_w256598637_b4692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50%3D
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="QUỐC TẾ", FX
 http://gg.gg/HaNoiIPTV-FX_HD
+
 #EXTINF:-1 group-title="QUỐC TẾ", WANNERTV
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 
 EXTINF:-1 group-title="QUỐC TẾ", HBO HD
-http://cdn6.thanden.cf/live/qiBmwupePmhK9k0lLrkGJA/1604503378/hbo.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ", CINEMA HD
-http://cdn3.thanden.cf/live/gBbVPE_pP8Wm1TXvWOjyjA/1604503496/max.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ", flixhd
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ", privehd
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png" group-title="Quốc tế",FOX HD
+#EXTINF:-1 group-title="QUỐC TẾ", CINEMA HD
+http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8?bycoca
+
+#EXTINF:-1 group-title="QUỐC TẾ", WOMAN
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 group-title="QUỐC TẾ", FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="QUỐC TẾ", STAR MOVIEAS
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUỐC TẾ", STAR WORLD
+http://221.120.204.4/star-world-LOCKLE/index.m3u8
+
+#EXTINF:-1 group-title="QUỐC TẾ",FIML
+https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+
+#EXTINF:-1 group-title="QUỐC TẾ", Kpop
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1226297415.m3u8
+
+#EXTINF:-1 group-title="QUỐC TẾ", FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2020/08/03/744316-Paramount-xanh-fix.png" group-title="Quốc Tế",Paramount HD
