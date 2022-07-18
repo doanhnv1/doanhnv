@@ -116,6 +116,8 @@ https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Homeshopping
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
 
+#EXTINF:-1 group-title="HTV", Kpop
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1226297415.m3u8
 
 #EXTM3U VTC
 
