@@ -360,14 +360,12 @@ https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
 
 #EXTINF:-1 group-title="DIA PHUONG", Đồng Tháp 2
-#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="DIA PHUONG", Gia Lai
-#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", Hanoi 1
+#EXTINF:-1 group-title="DIA PHUONG", Hà Nội 1
 https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="DIA PHUONG", Hà Nội 2
@@ -413,11 +411,6 @@ http://118.69.169.42:1935/THTV/travinhtv/playlist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG", Trà Vinh 2
 http://118.69.169.42:1935/THTV2/mystream/playlist.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", Bạc Liêu
-https://tv.thbl.vn/live/tv/tv.m3u8
-
-#EXTINF:-1 group-title="DIA PHUONG",Hà Nội 1
-https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
 
 
 
