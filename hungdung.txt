@@ -317,6 +317,9 @@ https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-1080p/chunks.m3u8
 #EXTINF:-1 group-title="DIA PHUONG", TH Đồng Nai 1
 http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_w1922635327_b1384000.m3u8
 
+#EXTINF:-1 group-title="DIA PHUONG", TH Đồng Nai 2
+http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w318694496_b584000.m3u8
+
 #EXTINF:-1 group-title="DIA PHUONG", TH Đồng Nai 3
 https://code.television4you.xyz/getlink/diaphuong?kenh=dnlive&id=dnrtv3
 
