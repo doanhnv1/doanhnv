@@ -369,7 +369,6 @@ https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="DIA PHUONG",Hanoi 1
-#https://vtvgo-livedp.vtvdigital.vn/9fafe639dfc1732fdea06b2f13260be1/1658579274741/hanoi1tv/hanoi1tv@mid.m3u8
 https://live.hanoitv.vn/hntvlive/tv1live.m3u8 https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="DIA PHUONG",Hanoi 2
