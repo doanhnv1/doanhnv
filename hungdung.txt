@@ -314,7 +314,10 @@ http://103.90.220.236/drtlive/tv1live-transmux.m3u8
 #EXTINF:-1 group-title="DIA PHUONG", PTD HD | TH Đắk Nông
 https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-1080p/chunks.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", ĐNRTV3 | TH Đồng Nai
+#EXTINF:-1 group-title="DIA PHUONG", TH Đồng Nai 1
+http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_w1922635327_b1384000.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", TH Đồng Nai 3
 https://code.television4you.xyz/getlink/diaphuong?kenh=dnlive&id=dnrtv3
 
 #EXTINF:-1 group-title="DIA PHUONG", THĐT1 HD | TH Đồng Tháp
