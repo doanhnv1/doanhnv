@@ -326,10 +326,10 @@ http://103.90.220.236/bptvlive/tv2live.m3u8
 #EXTINF:-1 group-title="DIA PHUONG", Bình Thuận
 http://202.43.109.144:1935/thbttv/bttv/chunklist.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", DaNangTV1 HD
+#EXTINF:-1 group-title="DIA PHUONG", Đà Nẵng 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", DaNangTV2 HD
+#EXTINF:-1 group-title="DIA PHUONG", Đà Nẵng 2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 
 #EXTINF:-1 group-title="DIA PHUONG", Đắk Lắk
