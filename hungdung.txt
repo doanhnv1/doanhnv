@@ -305,6 +305,9 @@ https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",  Bình Dương 4
 https://livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 group-title="DIA PHUONG", Bình Dương 5
+https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740|Referer=http://sctvonline.vn/
+
 #EXTINF:-1 group-title="DIA PHUONG", Bình Dương 6
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 
@@ -411,5 +414,18 @@ http://118.69.169.42:1935/THTV2/mystream/playlist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG", BAC LIEU
 https://tv.thbl.vn/live/tv/tv.m3u8
 
+#EXTM3U THE THAO
+
+#EXTINF:-1 group-title="THE THAO", K+CINE HD
+http://live.television4you.xyz:8080/kcine
+
+#EXTINF:-1 group-title="THE THAO", K+LIFE HD
+http://live.television4you.xyz:8080/klife
+
+#EXTINF:-1 group-title="THE THAO", K+SPORT1 HD
+http://live.television4you.xyz:8080/ksport1
+
+#EXTINF:-1 group-title="THE THAO", K+SPORT2 HD
+http://live.television4you.xyz:8080/ksport2
 
 
