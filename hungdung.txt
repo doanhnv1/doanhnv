@@ -326,14 +326,14 @@ https://code.television4you.xyz/getlink/diaphuong?kenh=dnlive&id=dnrtv3
 #EXTINF:-1 group-title="DIA PHUONG", BAC LIEU
 https://tv.thbl.vn/live/tv/tv.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", TH Kiên Giang
+#EXTINF:-1 group-title="DIA PHUONG", Kiên Giang 2
 https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", TH Kiên Giang
+#EXTINF:-1 group-title="DIA PHUONG", Kiên Giang 1
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
 
-#EXTINF:-1 group-title="DIA PHUONG", TH Đồng Tháp
+#EXTINF:-1 group-title="DIA PHUONG", Đồng Tháp
 http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
 
 #EXTINF:-1 group-title="DIA PHUONG", Đồng Tháp
@@ -392,12 +392,6 @@ http://118.69.169.42:1935/THTV2/mystream/playlist.m3u8
 
 #EXTINF:-1 group-title="DIA PHUONG", BAC LIEU
 https://tv.thbl.vn/live/tv/tv.m3u8
-
-#EXTINF:-1 group-title="DIA PHUONG", Kiên Giang
-https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-
-#EXTINF:-1 group-title="DIA PHUONG", Kiên Giang
-https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
 
 
