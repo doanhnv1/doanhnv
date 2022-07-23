@@ -283,23 +283,23 @@ http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTM3U DIA PHUONG
 
 
-#EXTINF:-1 group-title="DIA PHUONG", ATV | TH An Giang
+#EXTINF:-1 group-title="DIA PHUONG", TH An Giang
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", THBT | TH Bến Tre
+#EXTINF:-1 group-title="DIA PHUONG", Bến Tre
 https://1012163901.vnns.net/bentre.adm.480p.tms/playlist.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", THTPCT HD | TH Cần Thơ
+#EXTINF:-1 group-title="DIA PHUONG", Cần Thơ
 https://tv.tchgroup.vn/live/tv_web/chunklist.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", BPTV1 HD | TH Bình Phước
+#EXTINF:-1 group-title="DIA PHUONG", Bình Phước
 http://103.90.220.236/bptvlive/tv1live.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", BPTV2 HD | TH Bình Phước
+#EXTINF:-1 group-title="DIA PHUONG", TH Bình Phước
 http://103.90.220.236/bptvlive/tv2live.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", BTV HD | TH Bình Thuận
+#EXTINF:-1 group-title="DIA PHUONG", Bình Thuận
 http://202.43.109.144:1935/thbttv/bttv/chunklist.m3u8
 
 #EXTINF:-1 group-title="DIA PHUONG", DaNangTV1 HD
@@ -308,10 +308,10 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG", DaNangTV2 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", DRT HD | TH Đắk Lắk
+#EXTINF:-1 group-title="DIA PHUONG", Đắk Lắk
 http://103.90.220.236/drtlive/tv1live-transmux.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", PTD HD | TH Đắk Nông
+#EXTINF:-1 group-title="DIA PHUONG", Đắk Nông
 https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="DIA PHUONG", TH Đồng Nai 1
@@ -333,14 +333,14 @@ https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
 
-#EXTINF:-1 group-title="DIA PHUONG", THĐT1 HD | TH Đồng Tháp
+#EXTINF:-1 group-title="DIA PHUONG", TH Đồng Tháp
 http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", THĐT2 | TH Đồng Tháp
+#EXTINF:-1 group-title="DIA PHUONG", Đồng Tháp
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", THGL | TH Gia Lai
+#EXTINF:-1 group-title="DIA PHUONG", Gia Lai
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
 
@@ -351,52 +351,52 @@ https://vtvgo-livedp.vtvdigital.vn/9fafe639dfc1732fdea06b2f13260be1/165857927474
 #EXTINF:-1 group-title="DIA PHUONG", HanoiTV2 HD
 http://103.90.220.236/hntvlive/tv2live.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", HGTV | TH Hậu Giang
+#EXTINF:-1 group-title="DIA PHUONG", Hậu Giang
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/haugiang_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", KTV HD | TH Khánh Hòa
+#EXTINF:-1 group-title="DIA PHUONG", Khánh Hòa
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", LTV HD | TH Lâm Đồng
+#EXTINF:-1 group-title="DIA PHUONG", Lâm Đồng
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", LA34 HD | TH Long An
+#EXTINF:-1 group-title="DIA PHUONG", Long An
 https://la34.vncdn.vn/live/LA34AAA/playlist.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", NTV HD | TH Ninh Thuận
+#EXTINF:-1 group-title="DIA PHUONG", Ninh Thuận
 http://202.43.109.142:1935/NTV/ntvtv/chunklist.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", STV1 | TH Sóc Trăng
+#EXTINF:-1 group-title="DIA PHUONG", Sóc Trăng 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", STV2 HD | TH Sóc Trăng
+#EXTINF:-1 group-title="DIA PHUONG", Sóc Trăng 2
 http://live.television4you.xyz/stv2/mpegts
 
-#EXTINF:-1 group-title="DIA PHUONG", STV2 HD | TH Sóc Trăng
+#EXTINF:-1 group-title="DIA PHUONG", Sóc Trăng 2HD
 http://live.television4you.xyz/stv2/mpegts
 
-#EXTINF:-1 group-title="DIA PHUONG", TTV11 HD | TH Tây Ninh
+#EXTINF:-1 group-title="DIA PHUONG", Tây Ninh
 http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", THTG HD | TH Tiền Giang
+#EXTINF:-1 group-title="DIA PHUONG", Tiền Giang
 http://123.25.238.45:1935/live/thtg/chunklist.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", THTV HD | TH Trà Vinh
+#EXTINF:-1 group-title="DIA PHUONG", Trà Vinh 1
 http://118.69.169.42:1935/THTV/travinhtv/playlist.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", THTV2 HD | TH Trà Vinh
+#EXTINF:-1 group-title="DIA PHUONG", Trà Vinh 2
 http://118.69.169.42:1935/THTV2/mystream/playlist.m3u8
 
 #EXTINF:-1 group-title="DIA PHUONG", BAC LIEU
 https://tv.thbl.vn/live/tv/tv.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", TH Kiên Giang
+#EXTINF:-1 group-title="DIA PHUONG", Kiên Giang
 https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", TH Kiên Giang
+#EXTINF:-1 group-title="DIA PHUONG", Kiên Giang
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
 
