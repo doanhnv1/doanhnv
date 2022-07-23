@@ -146,35 +146,8 @@ https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="PHIM TRUYEN", Box Movie 1
-http://live.television4you.xyz:8080/boxmovie1
-
-#EXTINF:-1 group-title="PHIM TRUYEN", Hollywood Classics
-http://live.television4you.xyz:8080/hollywood
-
-#EXTINF:-1 group-title="PHIM TRUYEN", In The Box
-http://live.television4you.xyz:8080/inthebox
-
 #EXTINF:-1 group-title="PHIM TRUYEN", Box Hits
 http://live.television4you.xyz/boxhits/mpegts
-
-#EXTINF:-1 group-title="PHIM TRUYEN", Man
-http://live.television4you.xyz:8080/man
-
-#EXTINF:-1 group-title="PHIM TRUYEN", Dr.Fit
-http://live.television4you.xyz:8080/drfit
-
-#EXTINF:-1 group-title="PHIM TRUYEN", Happy Kids
-http://live.television4you.xyz:8080/happykids
-
-#EXTINF:-1 group-title="PHIM TRUYEN", Music Box
-http://live.television4you.xyz:8080/musicbox
-
-#EXTINF:-1 group-title="PHIM TRUYEN", Planet Earth
-http://live.television4you.xyz:8080/planetearth
-
-#EXTINF:-1 group-title="PHIM TRUYEN", Woman
-http://live.television4you.xyz:8080/woman
 
 #EXTINF:-1 group-title="PHIM TRUYEN", Box Movie 1 SCTV
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -231,31 +204,9 @@ https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="NUOC NGOAI", BBC Earth
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="NUOC NGOAI", BBC Lifestyle
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="NUOC NGOAI", BBC Cbeebies
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-
 #EXTINF:-1 group-title="NUOC NGOAI", BBC World News
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="NUOC NGOAI", Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-
-#EXTINF:-1 group-title="NUOC NGOAI", ABC Australia
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="NUOC NGOAI", Bloomberg
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 
 #EXTINF:-1 group-title="NUOC NGOAI", CNBC
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -263,31 +214,6 @@ https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="NUOC NGOAI", CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-
-#EXTINF:-1 group-title="NUOC NGOAI", CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-#EXTINF:-1 group-title="NUOC NGOAI", CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
-
-#EXTINF:-1 group-title="NUOC NGOAI", DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTINF:-1 group-title="NUOC NGOAI", France 24
-http://f24hls-i.akamaihd.net/hls/live/221147-b/F24_EN_HI_HLS/01.m3u8
-
-#EXTINF:-1 group-title="NUOC NGOAI", KBS World
-https://api.vthanhtivii.xyz/v1/getlink/vieon/kbs-world
-
-#EXTINF:-1 group-title="NUOC NGOAI", NHK World
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="NUOC NGOAI", TV5Monde
-https://api.vthanhtivii.xyz/v1/getlink/vieon/tv5-monde-asie
-
-#EXTINF:-1 group-title="NUOC NGOAI", TRT World
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 group-title="NUOC NGOAI", Asian Food Network
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -304,11 +230,6 @@ https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="NUOC NGOAI", Discovery Asia
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="NUOC NGOAI", History HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=6765ea7b7cc54c1c86551d6b3440b39b&key=1613f6b40465bbe91740f78571ac79fa
-https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd
 
 #EXTINF:-1 group-title="NUOC NGOAI", National Geographic HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -334,9 +255,6 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="NUOC NGOAI", DMAX
-http://live.television4you.xyz/dmax/mpegts
-
 #EXTINF:-1 group-title="NUOC NGOAI", MTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
@@ -348,12 +266,6 @@ https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="NUOC NGOAI", Fashion TV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="NUOC NGOAI", HITS
-https://api.vthanhtivii.xyz/v1/getlink/tv360/107/2
-
-#EXTINF:-1 group-title="NUOC NGOAI", HGTV
-https://api.vthanhtivii.xyz/v1/getlink/tv360/99/2
 
 #EXTINF:-1 group-title="NUOC NGOAI", KIX HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
