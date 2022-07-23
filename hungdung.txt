@@ -281,6 +281,8 @@ http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTM3U DIA PHUONG
+
+
 #EXTINF:-1 group-title="DIA PHUONG", ATV | TH An Giang
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
@@ -299,6 +301,9 @@ http://103.90.220.236/bptvlive/tv2live.m3u8
 
 #EXTINF:-1 group-title="DIA PHUONG", BTV HD | TH Bình Thuận
 http://202.43.109.144:1935/thbttv/bttv/chunklist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", DaNangTV1 HD
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 
 #EXTINF:-1 group-title="DIA PHUONG", DaNangTV2 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
