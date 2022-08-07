@@ -1,109 +1,112 @@
 
+
+
 #EXTM3U VTV
-#EXTINF:-1 group-title="VTV", VTV 1
+
+#EXTINF:-1 group-title="VTV",VTV 1
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="VTV", VTV2 HD
+#EXTINF:-1 group-title="VTV",VTV2 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="VTV", VTV3 HD
+#EXTINF:-1 group-title="VTV",VTV3 HD
 https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="VTV", VTV4 HD
+#EXTINF:-1 group-title="VTV",VTV4 HD
 https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="VTV", VTV5 HD
+#EXTINF:-1 group-title="VTV",VTV5 HD
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="VTV", VTV5 HD Tây Nam Bộ
+#EXTINF:-1 group-title="VTV",VTV5 HD Tây Nam Bộ
 https://api.vthanhtivi.pw/v1/getlink/vtvgo/7
 
-#EXTINF:-1 group-title="VTV", VTV5 Tây Nguyên
+#EXTINF:-1 group-title="VTV",VTV5 Tây Nguyên
 https://api.vthanhtivi.pw/v1/getlink/vtvgo/163
 
-#EXTINF:-1 group-title="VTV", VTV6 HD
+#EXTINF:-1 group-title="VTV",VTV6 HD
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="VTV", VTV7 HD
 https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="VTV", VTV8 HD
+#EXTINF:-1 group-title="VTV",VTV8 HD
 https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="VTV", VTV9 HD
+#EXTINF:-1 group-title="VTV",VTV9 HD
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTM3U VTVCAB
 
-#EXTINF:-1 group-title="VTVCAB", VTVcab 1
+#EXTINF:-1 group-title="VTVCAB",VTVcab 1 - Vie Giải trí HD
 https://api.vthanhtivi.pw/v1/getlink/vieon/vie-giai-tri-hd
 
-#EXTINF:-1 group-title="VTVCAB", ON Phim Việt
+#EXTINF:-1 group-title="VTVCAB",ON Phim Việt
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab2-on-phim-viet
 
-#EXTINF:-1 group-title="VTVCAB", ON Sports HD
+#EXTINF:-1 group-title="VTVCAB",ON Sports HD
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab3-on-sports
 
-#EXTINF:-1 group-title="VTVCAB", ON Sports HD sv2
+#EXTINF:-1 group-title="VTVCAB",ON Sports HD sv2
 http://live.television4you.xyz:8080/vtvcab3
 
-#EXTINF:-1 group-title="VTVCAB", VTVcab 4
+#EXTINF:-1 group-title="VTVCAB",VTVcab 4
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab4-phim-dac-sac
 
-#EXTINF:-1 group-title="VTVCAB", VTVcab 5 - E Channel
+#EXTINF:-1 group-title="VTVCAB",VTVcab 5 - E Channel
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab5-e-channel
 
-#EXTINF:-1 group-title="VTVCAB", ON Sports+
+#EXTINF:-1 group-title="VTVCAB",ON Sports+
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab6-on-sport-plus
 
-#EXTINF:-1 group-title="VTVCAB", ON Sports+ sv2
+#EXTINF:-1 group-title="VTVCAB",ON Sports+ sv2
 https://api.vthanhtivi.pw/v1/getlink/vtvgo/196
 
-#EXTINF:-1 group-title="VTVCAB", VTVcab 7 - Sức khỏe và Cuộc sống
+#EXTINF:-1 group-title="VTVCAB",VTVcab 7 - Sức khỏe và Cuộc sống
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab7
 
-#EXTINF:-1 group-title="VTVCAB", VTVcab 8 - BiBi
+#EXTINF:-1 group-title="VTVCAB",VTVcab 8 - BiBi
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab8-bibi
 
-#EXTINF:-1 group-title="VTVCAB", VTVcab 9 - Info TV
+#EXTINF:-1 group-title="VTVCAB",VTVcab 9 - Info TV
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab9-info-tv
 
-#EXTINF:-1 group-title="VTVCAB", ON Cine
+#EXTINF:-1 group-title="VTVCAB",ON Cine
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab10-on-cine
 
-#EXTINF:-1 group-title="VTVCAB", VTVcab 12 - Style TV
+#EXTINF:-1 group-title="VTVCAB",VTVcab 12 - Style TV
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab12-style-tv
 
-#EXTINF:-1 group-title="VTVCAB", VTVcab 15
+#EXTINF:-1 group-title="VTVCAB",VTVcab 15
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab15
 
-#EXTINF:-1 group-title="VTVCAB", ON Football HD
+#EXTINF:-1 group-title="VTVCAB",ON Football HD
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab16-on-football
 
-#EXTINF:-1 group-title="VTVCAB", ON Football HD sv2
+#EXTINF:-1 group-title="VTVCAB",ON Football HD sv2
 http://live.television4you.xyz:8080/vtvcab16
 
-#EXTINF:-1 group-title="VTVCAB", VTVcab 17 - Yeah1TV
+#EXTINF:-1 group-title="VTVCAB",VTVcab 17 - Yeah1TV
 https://api.vthanhtivi.pw/v1/getlink/vtvgo/195
 
-#EXTINF:-1 group-title="VTVCAB", ON Sports News
+#EXTINF:-1 group-title="VTVCAB",ON Sports News
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab18-on-sports-news
 
-#EXTINF:-1 group-title="VTVCAB", ON Sports News sv2
+#EXTINF:-1 group-title="VTVCAB",ON Sports News sv2
 http://live.television4you.xyz:8080/vtvcab18
 
 #EXTINF:-1 group-title="VTVCAB", VTVcab 19 - Vie Dramas
 https://api.vthanhtivi.pw/v1/getlink/mytv_web/201/hd
 
-#EXTINF:-1 group-title="VTVCAB", VTVcab 20 - VFamily
+#EXTINF:-1 group-title="VTVCAB",VTVcab 20 - VFamily
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab20-vfamily
 
-#EXTINF:-1 group-title="VTVCAB", VTVcab 21 - Cartoon Kids
+#EXTINF:-1 group-title="VTVCAB",VTVcab 21 - Cartoon Kids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab21-cartoon-kid
 
-#EXTINF:-1 group-title="VTVCAB", VTVcab 22 - Life TV
+#EXTINF:-1 group-title="VTVCAB",VTVcab 22 - Life TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab22-life-tv
 
@@ -111,77 +114,77 @@ https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab22-life-tv
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab23-the-thao-golf
 
-#EXTINF:-1 group-title="VTVCAB", ON Golf sv2
+#EXTINF:-1 group-title="VTVCAB",ON Golf sv2
 http://live.television4you.xyz:8080/vtvcab23
 
-#EXTINF:-1 group-title="VTVCAB", ON Golf Eng
+#EXTINF:-1 group-title="VTVCAB",ON Golf Eng
 https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8
 
-#EXTINF:-1 group-title="VTVCAB", ON VFF
+#EXTINF:-1 group-title="VTVCAB",ON VFF
 https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
 
-#EXTINF:-1 group-title="VTVCAB", ON Volleyball
+#EXTINF:-1 group-title="VTVCAB",ON Volleyball
 https://onsportlive.vtvcab.vn/hls/ONVOLLEYBALL_CL/04.m3u8
 
 #EXTM3U VTC
 
-#EXTINF:-1 group-title="VTC", VTC1 HD
+#EXTINF:-1 group-title="VTC",VTC1 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="VTC", VTC2
+#EXTINF:-1 group-title="VTC",VTC2
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="VTC", VTC3 HD
+#EXTINF:-1 group-title="VTC",VTC3 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="VTC", VTC4 HD
+#EXTINF:-1 group-title="VTC",VTC4 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="VTC", VTC5 HD
+#EXTINF:-1 group-title="VTC",VTC5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtc5-hd
 
-#EXTINF:-1 group-title="VTC", VTC6 HD
+#EXTINF:-1 group-title="VTC",VTC6 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="VTC", VTC7 HD - TodayTV
+#EXTINF:-1 group-title="VTC",VTC7 HD - TodayTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtc7-todaytv-hd
 
-#EXTINF:-1 group-title="VTC", VTC8
+#EXTINF:-1 group-title="VTC",VTC8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="VTC", VTC9 HD
+#EXTINF:-1 group-title="VTC",VTC9 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/vtc9_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="VTC", VTC10 HD
+#EXTINF:-1 group-title="VTC",VTC10 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="VTC", VTC11
+#EXTINF:-1 group-title="VTC",VTC11
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="VTC", VTC12 
+#EXTINF:-1 group-title="VTC",VTC12 
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="VTC", VTC13 HD
+#EXTINF:-1 group-title="VTC",VTC13 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="VTC", VTC14 HD
+#EXTINF:-1 group-title="VTC",VTC14 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="VTC", VTC16 HD
+#EXTINF:-1 group-title="VTC",VTC16 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtc16-hd
 
@@ -191,213 +194,213 @@ https://api.vthanhtivi.pw/v1/getlink/vieon/vtc16-hd
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="HTV", HTV1 HD
+#EXTINF:-1 group-title="HTV",HTV1 HD
 https://api.vthanhtivi.pw/v1/getlink/htv/2631
 
-#EXTINF:-1 group-title="HTV", HTV2 - Vie Channel
+#EXTINF:-1 group-title="HTV",HTV2 - Vie Channel
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 group-title="HTV", HTV3 - Heo TV
+#EXTINF:-1 group-title="HTV",HTV3 - Heo TV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="HTV", HTV Key
+#EXTINF:-1 group-title="HTV",HTV Key
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="HTV", HTV Key HD
+#EXTINF:-1 group-title="HTV",HTV Key HD
 https://api.vthanhtivi.pw/v1/getlink/htv/2528
 
-#EXTINF:-1 group-title="HTV", HTV7 HD
+#EXTINF:-1 group-title="HTV",HTV7 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="HTV", HTV9 HD
+#EXTINF:-1 group-title="HTV",HTV9 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="HTV", HTV CO.OP
+#EXTINF:-1 group-title="HTV",HTV CO.OP
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
 
-#EXTINF:-1 group-title="HTV", HTV Thể Thao
+#EXTINF:-1 group-title="HTV",HTV Thể Thao
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
  
-#EXTINF:-1 group-title="HTV", HTVC Thuần Việt
+#EXTINF:-1 group-title="HTV",HTVC Thuần Việt
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="HTV", HTVC Thuần Việt HD
+#EXTINF:-1 group-title="HTV",HTVC Thuần Việt HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="HTV", HTVC Gia đình HD
+#EXTINF:-1 group-title="HTV",HTVC Gia đình HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="HTV", HTVC Phụ nữ HD
+#EXTINF:-1 group-title="HTV",HTVC Phụ nữ HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="HTV", HTVC Du lịch Cuộc sống HD
+#EXTINF:-1 group-title="HTV",HTVC Du lịch Cuộc sống HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="HTV", HTVC Ca nhạc HD
+#EXTINF:-1 group-title="HTV",HTVC Ca nhạc HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 
-#EXTINF:-1 group-title="HTV", HTVC Phim HD
+#EXTINF:-1 group-title="HTV",HTVC Phim HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="HTV", HTVC Plus HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="HTV", HTVC Homeshopping
+#EXTINF:-1 group-title="HTV",HTVC Homeshopping
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
 
 #EXTM3U SCTV
 
-#EXTINF:-1 group-title="SCTV", SCTV1 HD
+#EXTINF:-1 group-title="SCTV",SCTV1 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv1
-#EXTINF:-1 group-title="SCTV", SCTV2 HD
+#EXTINF:-1 group-title="SCTV",SCTV2 HD
 https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="SCTV", SCTV3 HD
+#EXTINF:-1 group-title="SCTV",SCTV3 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv3
-#EXTINF:-1 group-title="SCTV", SCTV4 HD
+#EXTINF:-1 group-title="SCTV",SCTV4 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv4
 #EXTINF:-1 group-title="SCTV", SCTV5 HD - SCJ
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv5
-#EXTINF:-1 group-title="SCTV", SCTV6 HD
+#EXTINF:-1 group-title="SCTV",SCTV6 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="SCTV", SCTV7 HD
+#EXTINF:-1 group-title="SCTV",SCTV7 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv7
-#EXTINF:-1 group-title="SCTV", SCTV8 HD
+#EXTINF:-1 group-title="SCTV",SCTV8 HD
 https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="SCTV", SCTV9 HD
+#EXTINF:-1 group-title="SCTV",SCTV9 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv9
-#EXTINF:-1 group-title="SCTV", SCTV10
+#EXTINF:-1 group-title="SCTV",SCTV10
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv10
-#EXTINF:-1 group-title="SCTV", SCTV11 HD
+#EXTINF:-1 group-title="SCTV",SCTV11 HD
 https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="SCTV", SCTV12 HD
+#EXTINF:-1 group-title="SCTV",SCTV12 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv12
-#EXTINF:-1 group-title="SCTV", SCTV13 HD
+#EXTINF:-1 group-title="SCTV",SCTV13 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv13
-#EXTINF:-1 group-title="SCTV", SCTV14 HD
+#EXTINF:-1 group-title="SCTV",SCTV14 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv14
-#EXTINF:-1 group-title="SCTV", SCTV15 HD
+#EXTINF:-1 group-title="SCTV",SCTV15 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv15
-#EXTINF:-1 group-title="SCTV", SCTV16 HD
+#EXTINF:-1 group-title="SCTV",SCTV16 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv16
-#EXTINF:-1 group-title="SCTV", SCTV17 HD
+#EXTINF:-1 group-title="SCTV",SCTV17 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv17
-#EXTINF:-1 group-title="SCTV", SCTV18 HD
+#EXTINF:-1 group-title="SCTV",SCTV18 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv18
-#EXTINF:-1 group-title="SCTV", SCTV19 HD
+#EXTINF:-1 group-title="SCTV",SCTV19 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv19
-#EXTINF:-1 group-title="SCTV", SCTV20 HD
+#EXTINF:-1 group-title="SCTV",SCTV20 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv20
-#EXTINF:-1 group-title="SCTV", SCTV21 HD
+#EXTINF:-1 group-title="SCTV",SCTV21 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv21
-#EXTINF:-1 group-title="SCTV", SCTV22 HD
+#EXTINF:-1 group-title="SCTV",SCTV22 HD
 https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="SCTV", SCTV HD Phim Tổng Hợp
+#EXTINF:-1 group-title="SCTV",SCTV HD Phim Tổng Hợp
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv
 
 
 #EXTM3U THỂ THAO
 
-#EXTINF:-1 group-title="THỂ THAO", K+CINE HD
+#EXTINF:-1 group-title="THỂ THAO",K+CINE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=2761754f661634d49560631198dd3122&key=3617e340b77a76fa1232f4f6360157fd
 https://kplus-livecdn.fptplay.net/vthanhtivi/drmlive/14022022k1cine_4000.stream/manifest.mpd
-#EXTINF:-1 group-title="THỂ THAO", K+LIFE HD
+#EXTINF:-1 group-title="THỂ THAO",K+LIFE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=3c02226f8bec3f948d3e05836c410e7e&key=4a93d65f5e7009bcaf573b187e68fd21
 https://kplus-livecdn.fptplay.net/vthanhtivi/drmlive/14022022k1lifeb_4000.stream/manifest.mpd
-#EXTINF:-1 group-title="THỂ THAO", K+SPORT1 HD
+#EXTINF:-1 group-title="THỂ THAO",K+SPORT1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=1fe5426280a93352b2d7f36ff3422772&key=eb024058f8c54948a124d6239afd783e
 https://smarttv-drm.fptplay.net/vthanhtivi/drmlive/14022022k1sport1box_4000.stream/manifest.mpd
-#EXTINF:-1 group-title="THỂ THAO", K+SPORT2 HD
+#EXTINF:-1 group-title="THỂ THAO",K+SPORT2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=f673aeef24dc3f4ba6437ef3b37cfa92&key=d485c33b5af849911b3b5fc212188098
 https://kplus-livecdn.fptplay.net/vthanhtivi/drmlive/14022022k1sport2_4000.stream/manifest.mpd
 
 #EXTM3U VĨNH LONG
 
-#EXTINF:-1 group-title="VĨNH LONG", THVL1 HD
+#EXTINF:-1 group-title="VĨNH LONG",THVL1 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="VĨNH LONG", THVL2 HD
+#EXTINF:-1 group-title="VĨNH LONG",THVL2 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="VĨNH LONG", THVL3 HD
+#EXTINF:-1 group-title="VĨNH LONG",THVL3 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="VĨNH LONG", THVL4 HD
+#EXTINF:-1 group-title="VĨNH LONG",THVL4 HD
 #https://api.vthanhtivi.pw/v1/getlink/mytv_web/429/hd
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTM3U Hanoicab
 
-#EXTINF:-1 group-title="Hanoicab", Hanoicab1 - HiTV
+#EXTINF:-1 group-title="Hanoicab",Hanoicab1 - HiTV
 https://api.vthanhtivi.pw/v1/getlink/tv360/32/0
-#EXTINF:-1 group-title="Hanoicab", Hanoicab2 - YouTV
+#EXTINF:-1 group-title="Hanoicab",Hanoicab2 - YouTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Hanoicab", Hanoicab4 - MOV
+#EXTINF:-1 group-title="Hanoicab",Hanoicab4 - MOV
 https://api.vthanhtivi.pw/v1/getlink/tv360/30/0
-#EXTINF:-1 group-title="Hanoicab", An Ninh Thế Giới
+#EXTINF:-1 group-title="Hanoicab",An Ninh Thế Giới
 https://api.vthanhtivi.pw/v1/getlink/tv360/21/0
 
 
 #EXTM3U BÌNH DƯƠNG
 
-#EXTINF:-1 group-title="BTV", Bình Dương 1
+#EXTINF:-1 group-title="BTV",Bình Dương 1
 https://api.vthanhtivi.pw/v1/getlink/mytv_web/402/hd
-#EXTINF:-1 group-title="BTV", Bình Dương 2
+#EXTINF:-1 group-title="BTV",Bình Dương 2
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="BTV", Bình Dương 3
+#EXTINF:-1 group-title="BTV",Bình Dương 3
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="BTV", Bình Dương 4
+#EXTINF:-1 group-title="BTV",Bình Dương 4
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="BTV", BTV5 HD
+#EXTINF:-1 group-title="BTV",BTV5 HD
 https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="BTV", Bình Dương 6
+#EXTINF:-1 group-title="BTV",Bình Dương 6
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="BTV", BTV9 HD
+#EXTINF:-1 group-title="BTV",BTV9 HD
 https://api.vthanhtivi.pw/v1/getlink/vieon/an-vien-hd
-#EXTINF:-1 group-title="BTV", Bình Dương 11
+#EXTINF:-1 group-title="BTV",Bình Dương 11
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
 
 #EXTM3U ĐỊA PHƯƠNG
 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ANTV HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG",ANTV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VNews
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG",VNews
 https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-1080p/chunks.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Nhân Dân TV
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG",Nhân Dân TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v1/getlink/vieon/nhan-dan-hd
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Quốc Hội HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG",Quốc Hội HD
 http://113.164.225.140:1935/live/quochoitvlive.stream/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", QPVN HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG",QPVN HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VOVTV HD
 http://103.90.220.236/vovlive/tv1live.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", An Giang
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG",An Giang
 https://api.vthanhtivi.pw/v1/getlink/tv360/35/0
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bà Rịa Vũng Tàu
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -440,7 +443,7 @@ https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-1080p/chunks.m3u8
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", Đồng Nai 1
 https://api.vthanhtivi.pw/v1/getlink/mytv_web/404/hd
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Đồng Nai 2
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  Đồng Nai 2
 https://api.vthanhtivi.pw/v1/getlink/tv360/255/3
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", Đồng Nai 3
 https://code.television4you.xyz/getlink/diaphuong?kenh=dnlive&id=dnrtv3
@@ -564,123 +567,123 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTM3U NƯỚC NGOÀI
 
-#EXTINF:-1 group-title="NƯỚC NGOÀI", HBO HD
+#EXTINF:-1 group-title="NƯỚC NGOÀI",HBO HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Cinemax HD
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Cinemax HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Box Movie 1
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Box Movie 1
 https://code.television4you.xyz/getlink/nethubtv?id=9328&itb=1
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Hollywood Classics
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Hollywood Classics
 https://code.television4you.xyz/getlink/nethubtv?id=9331&itb=1
-#EXTINF:-1 group-title="NƯỚC NGOÀI", In The Box
+#EXTINF:-1 group-title="NƯỚC NGOÀI",In The Box
 https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Box Hits
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Box Hits
 http://live.television4you.xyz:8081/boxhits/mpegts
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Man
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Man
 https://code.television4you.xyz/getlink/nethubtv?id=9332&itb=1
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Dr.Fit
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Dr.Fit
 https://code.television4you.xyz/getlink/nethubtv?id=9335&itb=1
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Happy Kids
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Happy Kids
 https://code.television4you.xyz/getlink/nethubtv?id=9337&itb=1
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Music Box
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Music Box
 https://code.television4you.xyz/getlink/nethubtv?id=9329&itb=1
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Planet Earth
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Planet Earth
 https://api.vthanhtivi.pw/v1/getlink/tv360/135/2
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Woman
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Woman
 https://code.television4you.xyz/getlink/nethubtv?id=9333&itb=1
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Box Movie 1 SCTV
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Box Movie 1 SCTV
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/boxmovie1
 #EXTINF:-1 group-title="NƯỚC NGOÀI", Hollywood Classics SCTV
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/hollywoodclassics
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Dr.Fit SCTV
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Dr.Fit SCTV
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Happy Kids SCTV
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Happy Kids SCTV
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Planet Earth SCTV
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Planet Earth SCTV
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="NƯỚC NGOÀI", Woman SCTV
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Asian Food Network
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Asian Food Network
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI", Kpop
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1226297415.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Animal Planet
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Animal Planet
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Discovery
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Discovery
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Discovery Asia
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Discovery Asia
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", History HD
+#EXTINF:-1 group-title="NƯỚC NGOÀI",History HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=6765ea7b7cc54c1c86551d6b3440b39b&key=1613f6b40465bbe91740f78571ac79fa
 https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd
-#EXTINF:-1 group-title="NƯỚC NGOÀI", National Geographic HD
+#EXTINF:-1 group-title="NƯỚC NGOÀI",National Geographic HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Nat Geo Wild HD
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Nat Geo Wild HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Outdoor Channel HD
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Outdoor Channel HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", AXN HD
+#EXTINF:-1 group-title="NƯỚC NGOÀI",AXN HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Rock Entertainment
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Rock Entertainment
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Rock Extreme
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Rock Extreme
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", MTV
+#EXTINF:-1 group-title="NƯỚC NGOÀI",MTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", CinemaWorld
+#EXTINF:-1 group-title="NƯỚC NGOÀI",CinemaWorld
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Fashion TV
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Fashion TV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", HITS
+#EXTINF:-1 group-title="NƯỚC NGOÀI",HITS
 https://api.vthanhtivi.pw/v1/getlink/tv360/107/2
-#EXTINF:-1 group-title="NƯỚC NGOÀI", HGTV
+#EXTINF:-1 group-title="NƯỚC NGOÀI",HGTV
 https://api.vthanhtivi.pw/v1/getlink/tv360/99/2
-#EXTINF:-1 group-title="NƯỚC NGOÀI", KIX HD
+#EXTINF:-1 group-title="NƯỚC NGOÀI",KIX HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="NƯỚC NGOÀI", TLC
+#EXTINF:-1 group-title="NƯỚC NGOÀI",TLC
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Warner TV
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Warner TV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI", Animax HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Boomerang HD
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Boomerang HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Cartoon Network HD
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", Dreamworks
+#EXTINF:-1 group-title="NƯỚC NGOÀI",Dreamworks
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", BabyFirst
+#EXTINF:-1 group-title="NƯỚC NGOÀI",BabyFirst
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", BabyTV HD
+#EXTINF:-1 group-title="NƯỚC NGOÀI",BabyTV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI", Da Vinci HD
@@ -688,29 +691,29 @@ https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI", Bloomberg
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", CNBC
+#EXTINF:-1 group-title="NƯỚC NGOÀI",CNBC
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", CNN
+#EXTINF:-1 group-title="NƯỚC NGOÀI",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", CNA
+#EXTINF:-1 group-title="NƯỚC NGOÀI",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", CGTN
+#EXTINF:-1 group-title="NƯỚC NGOÀI",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", DW
+#EXTINF:-1 group-title="NƯỚC NGOÀI",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", France 24
+#EXTINF:-1 group-title="NƯỚC NGOÀI",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147-b/F24_EN_HI_HLS/01.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", KBS World
+#EXTINF:-1 group-title="NƯỚC NGOÀI",KBS World
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v1/getlink/vieon/kbs-world
-#EXTINF:-1 group-title="NƯỚC NGOÀI", NHK World
+#EXTINF:-1 group-title="NƯỚC NGOÀI",NHK World
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI", TV5Monde
+#EXTINF:-1 group-title="NƯỚC NGOÀI",TV5Monde
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v1/getlink/vieon/tv5-monde-asie
-#EXTINF:-1 group-title="NƯỚC NGOÀI", TRT World
+#EXTINF:-1 group-title="NƯỚC NGOÀI",TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 
