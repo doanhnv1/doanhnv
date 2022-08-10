@@ -1,3 +1,5 @@
+
+
 #EXTM3U HTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Large_htv1.png" group-title="HTVC",HTV1 HD
@@ -12,9 +14,8 @@ http://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png" group-title="HTVC",HTV4 HD
 http://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b1200000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1OTg0OTYyOTcsICJyZXNvdXJjZV9pZCI6ICJodHY0X2hscyIsICJwYXJ0bmVyX2lkIjogIjU3MTNiZThjMDdlNDJlZDRiOTE2Mzg4ZSIsICJ0b2tlbiI6ICI4MzhjNWZlNjFhOWZhMmNiNjZjNmEyMWEzMWFiMGI5YSIsICJ2YWxpZF9taW51dGVzIjogMTU5ODU4MjY5NywgInJtaXAiOiAiMTE4LjY5LjM3LjEyIn0=
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/HTV7Logomoi.png" group-title="HTVC",HTV7 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/HTV7Logomoi.png" group-title="HTVC", HTV7 HD
 https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
-#https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lVkFTxB.jpg" group-title="HTVC",HTV9 HD
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
@@ -39,7 +40,6 @@ https://vips-livecdn.fptplay.net/hda3/htvcdulich_vhls.smil/chunklist_b5000000.m3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aFjXzhar.jpg" group-title="HTVC",HTVC Gia Ðình HD
 https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gXSu7YV.jpg" group-title="HTVC",HTVC Thể Thao HD
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
@@ -50,16 +50,12 @@ https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTM3U Vĩnh Long
 #EXTINF:-1 group-title="Vĩnh Long", Vĩnh Long 1
-#https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist.m3u8
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Vĩnh Long", Vĩnh Long 2
-#https://livecdn.fptplay.net/sdb/vinhlong2_2000.stream/chunklist.m3u8
 https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Vĩnh Long", Vĩnh Long 3
-#https://livecdn.fptplay.net/hda/vinhlong3_2000.stream/chunklist.m3u8
 https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Vĩnh Long", Vĩnh Long 4
-#https://livecdn.fptplay.net/hda/vinhlong4hd_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTM3U VTV
@@ -170,8 +166,6 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=htt
 #EXTINF:-1 group-title="PHIM TRUYEN", Woman SCTV
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
-
-
 #EXTINF:-1 group-title="NUOC NGOAI", Animax HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
@@ -183,7 +177,6 @@ https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="NUOC NGOAI", Cartoon Network HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-
 
 #EXTINF:-1 group-title="NUOC NGOAI", Dreamworks
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -279,8 +272,6 @@ http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTM3U DIA PHUONG
-
-
 #EXTINF:-1 group-title="DIA PHUONG", TH An Giang
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
