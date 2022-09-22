@@ -138,9 +138,6 @@ https://livecdn.fptplay.net/sdb/vtc16_2000.stream/chunklist.m3u8
 
 #EXTM3U PHIM TRUYEN
 
-#EXTINF:-1 tvg-id="sctv16hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv16
-
 #EXTINF:-1 group-title="PHIM TRUYEN", SCTV16
 https://stream.sugustv.tk:443/play/UZempbPiyguKHF9wUvfPuJRTM2VDU-6OCDGP6vJMfLM/m3u8
 
