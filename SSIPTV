@@ -282,32 +282,25 @@ http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTM3U THE THAO
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e159e589ad3a3eb1bfe7e8a1639217ad:60c4d8eda30e69e00e04f1b8633beb58
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="kcinehd" tvg-logo="http://onetv.click/logo/kcinehd.jpg",K+Cine HD - Nguồn ClipTV
-https://106eb3818.vws.vegacdn.vn/cliptv_live/amlst:kplushd/manifest.mpd
+#EXTINF: -1 tvg-id="ksport1hd" group-title="⚽️Bóng Đá Khích TV| K +" tvg-logo = "https://cdn.hqth.me/logo/thumbs/87.png", K + SPORT1 HD TV MATE 
+https://hqth.me/khichtivisetantasport
+#EXTINF: -1 tvg-id = "ksport2hd" group-title = "⚽️Bóng Đá Khích TV🇳K + 1080P" tvg-logo = "https://cdn.hqth.me/logo/thumbs/88.png", K + SPORT2 HD
+https://vtsstr6.tv24.vn/live/SCTV22_HD_new.smil/chunklist_w1090136067_b1692000.m3u8
+#EXTINF: -1 tvg-id = "kkidshd" group-title = "⚽️Khích TIVI| K +" tvg-logo = "https://i.ytimg.com/vi/lUXrombM6Yo/hqdefault.jpg", K + KIDS HD IPTV VA TV MATE 
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv17
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a563c3b0b0303ba9b74f7ee795b273fd:23d34bfa6ce4a3784b9c809582c07acb
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="klifehd" tvg-logo="http://onetv.click/logo/klifehd.jpg",K+Life HD - Nguồn ClipTV
-https://106eb3818.vws.vegacdn.vn/cliptv_live/amlst:knshd/manifest.mpd
+#-*--tv360-*--#
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be76e6d3add23a47b6cea169ac2b9e7a:50caa3d6bf55b5206b6ce37175479984
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport1hd" tvg-logo="http://onetv.click/logo/ksport1hd.jpg",K+Sport1 HD - Nguồn ClipTV
-https://106eb3818.vws.vegacdn.vn/cliptv_live/amlst:kpmhd/manifest.mpd
+#EXTINF: -1 group-title = "🍭 | K + khichTV" tvg-logo = "https://i.ytimg.com/vi/6MxmhV9xiL0/hqdefault.jpg", XEM TRÊN TIVIMATE VÀ OTT NAVIGATOR TRÊN ANDROID!
+https://hqth.me/khichtivibinhduong5
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+ TV360" tvg-logo="https://bit.ly/khichtiviSPORT1", K+CINE
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6503632ab7973cfc87739bee5a38ad4d:9c976316c8c476e9964dcb1680efb8c3
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport2hd" tvg-logo="http://onetv.click/logo/ksport2hd.jpg",K+Sport2 HD - Nguồn ClipTV
-https://106eb3818.vws.vegacdn.vn/cliptv_live/amlst:kpchd/manifest.mpd
 
-
-
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a6eac0fa9f9431f9d0d59d9932d10a1&key=27b1431b4f6f2531789df519cdb1e1f5
 
 #EXTM3U DIA PHUONG
 
