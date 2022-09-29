@@ -282,29 +282,17 @@ http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTM3U THE THAO
-#EXTINF: -1 tvg-id="ksport1hd" group-title="⚽️Bóng Đá Khích TV| K +" tvg-logo = "https://cdn.hqth.me/logo/thumbs/87.png", K + SPORT1 HD TV MATE 
-https://hqth.me/khichtivisetantasport
-#EXTINF: -1 tvg-id = "ksport2hd" group-title = "⚽️Bóng Đá Khích TV🇳K + 1080P" tvg-logo = "https://cdn.hqth.me/logo/thumbs/88.png", K + SPORT2 HD
-https://vtsstr6.tv24.vn/live/SCTV22_HD_new.smil/chunklist_w1090136067_b1692000.m3u8
-#EXTINF: -1 tvg-id = "kkidshd" group-title = "⚽️Khích TIVI| K +" tvg-logo = "https://i.ytimg.com/vi/lUXrombM6Yo/hqdefault.jpg", K + KIDS HD IPTV VA TV MATE 
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv17
+#EXTINF:-1 tvg-id="kcine" group-title="Khích TV K+ Clip" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/8ibgqkog_k_cine.png",K+CINE HD
+https://106eb3818.vws.vegacdn.vn/cliptv_live/amlst:kplushd/chunklist_b3128000.m3u8
+#EXTINF: -1 tvg-id = "klifehd" group-title = "Khích TV K+ Clip" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/8cu1dyf9_k-life_296_168.png", K+LIFE HD Khích TV K+
+https://106eb3818.vws.vegacdn.vn/cliptv_live/amlst:knshd/chunklist_b3128000.m3u8
+#EXTINF: -1 tvg-id = "ksport1hd" group-title = "Khích TV K+ Clip" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/fxxda3tb_k-sport1b118c9aa73fa0dff5b4b412563b03e7f_296_168.png", K+SPORT1 HD hích TV K+
+https://106eb3818.vws.vegacdn.vn/cliptv_live/amlst:kpmhd/chunklist_b3128000.m3u8
+#EXTINF: -1 tvg-id = "ksport2hd" group-title = "Khích TV K+ Clip" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.png", K+SPORT2 HD hích TV K+
+https://106eb3818.vws.vegacdn.vn/cliptv_live/amlst:kpchd/chunklist_b3128000.m3u8
 
-#-*--tv360-*--#
-
-#EXTINF: -1 group-title = "🍭 | K + khichTV" tvg-logo = "https://i.ytimg.com/vi/6MxmhV9xiL0/hqdefault.jpg", XEM TRÊN TIVIMATE VÀ OTT NAVIGATOR TRÊN ANDROID!
-https://hqth.me/khichtivibinhduong5
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+ TV360" tvg-logo="https://bit.ly/khichtiviSPORT1", K+CINE
-
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a6eac0fa9f9431f9d0d59d9932d10a1&key=27b1431b4f6f2531789df519cdb1e1f5
 
 #EXTM3U DIA PHUONG
-
-
 #EXTINF:-1 group-title="DIA PHUONG", TH An Giang
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
