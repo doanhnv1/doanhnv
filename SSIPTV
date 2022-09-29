@@ -290,6 +290,31 @@ https://106eb3818.vws.vegacdn.vn/cliptv_live/amlst:knshd/chunklist_b3128000.m3u8
 https://106eb3818.vws.vegacdn.vn/cliptv_live/amlst:kpmhd/chunklist_b3128000.m3u8
 #EXTINF: -1 tvg-id = "ksport2hd" group-title = "Khích TV K+ Clip" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.png", K+SPORT2 HD hích TV K+
 https://106eb3818.vws.vegacdn.vn/cliptv_live/amlst:kpchd/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="Khích📺 ON SPORT1" tvg-logo="https://imgonsport.vtvcab.vn/image-upload/720x405/03ff3ed7-b516-4d70-8987-4188f9f7c8c2.jpg", ON SPORT1 HD
+https://lshstream.xyz/hls/allsportsicu01/index.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="Khích📺 ON SPORT2" tvg-logo="https://imgonsport.vtvcab.vn/image-upload/720x405/b21672cb-8949-4cbe-903f-d1782b9a8b00.jpg", ON SPORT2 HD
+https://lshstream.xyz/hls/allsportsicu08/index.m3u8
+#EXTINF:-1 tvg-id="ON SPORT4hd" group-title="Khích📺 ON SPORT3" tvg-logo="https://i.ytimg.com/vi/UVquUNSTCAI/hqdefault.jpg",ON SPORT3 HD FPT
+https://lshstream.xyz/hls/allsportsicu03/index.m3u8
+#EXTINF:-1 tvg-id="kcinehd" group-title="Khích📺 ON SPORT4" tvg-logo="https://imgonsport.vtvcab.vn/image-upload/720x405/786f2a18-edb9-49b2-ba36-1391aaf10e8e.jpg", ON SPORT4 HD
+https://lshstream.xyz/hls/allsportsicu02/index.m3u8
+#EXTINF:-1 tvg-id="ON SPORT6 HD" group-title="Khích📺 ON SPORT6" tvg-logo="https://imgonsport.vtvcab.vn/image-upload/720x405/8c56a1d2-b9a6-4f00-b3e4-a49015a0a8e4.jpg", ON SPORT6 HD
+https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-0-0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/488srb1/Golf-News-.png" group-title="Xem khích TiVi🌶️ VTVCab",THETHAO GOLF HD
+https://livevlive.vtvcab.vn/hls/THETHAO_GOLF_HD_CL/sc-gaFEAQ/v1_index.m3u8
+#EXTINF: -1 tvg-id = "" group-title = "🧡 | VTVcab" tvg-logo = "https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg ", ON Golf ENG
+https://tinyurl.com/khichtvONGolfENG
+#EXTINF: -1 tvg-id = "" group-title = "🧡 | VTVcab" tvg-logo = "https://j03qukjhr2obj.vcdn.cloud/image-upload/c9f48c4f-a407-4d48-90ce-dd7ec9422c0c.jpg ", TRÊN VFF
+https://tinyurl.com/khichtvonvff
+#EXTINF:-1 tvg-logo="https://i.ibb.co/488srb1/Golf-News-.png" group-title="Xem khích TiVi🌶️ VTVCab",Golf News
+https://livevlive.vtvcab.vn/hls/OS_BONGDA_HD/sc-gaFEEA/m20_index.m3u8
+#EXTINF:-1 group-title="🧡Khích TiVi| VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/j8xthfzb_vtvcab23-on-golf-thumb_296_168.webp", ON Golf Eng
+https://89-46-98-17.servers.tips:5052/live2/kGE8naX84sLqCxP6-OrCwQ/231624/1664183160/2076625.m3u8
+#EXTINF:-1 group-title="🧡Khích TiVi| VTVcab" tvg-logo="https://onsportimg.vtvcab.vn/image-upload/eb67575a-ff74-4e23-9430-2525586739d5.png", ON SPORT + TV
+https://hqth.me/khichtivivtvcabvnhlsONVFFTV
+#EXTINF: -1 group-title = "🧡 | VTVcab" tvg-logo = "https://imgonsport.vtvcab.vn/image-upload/720x405/9e0887ad-f22e-42ee-9afe-1482addf208e.jpg", TRÊN Bóng chuyền
+https://livevlive.vtvcab.vn/hls/HAY_TV_1924/sc-gaFEAA/m20_index.m3u8
+
 
 
 #EXTM3U DIA PHUONG
