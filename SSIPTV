@@ -283,14 +283,14 @@ http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTM3U THE THAO
 
-#EXTINF:-1 group-title="THE THAO",K+CINE HD
-https://106eb3818.vws.vegacdn.vn/cliptv_live/amlst:kplushd/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="THE THAO", K+LIFE HD
-https://106eb3818.vws.vegacdn.vn/cliptv_live/amlst:knshd/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="THE THAO", K+SPORT1 HD 
-https://106eb3818.vws.vegacdn.vn/cliptv_live/amlst:kpmhd/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="THE THAO", K+SPORT2 HD 
-https://106eb3818.vws.vegacdn.vn/cliptv_live/amlst:kpchd/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="kcine" group-title="Khích TV K+ Clip" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/8ibgqkog_k_cine.png",K+CINE HD
+http://plus.vthanhtivi.pw/hohuugiang/19052000/32.m3u8
+#EXTINF: -1 tvg-id = "klifehd" group-title = "Khích TV K+ Clip" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/8cu1dyf9_k-life_296_168.png", K+LIFE HD Khích TV K+
+http://plus.vthanhtivi.pw/hohuugiang/19052000/33.m3u8
+#EXTINF: -1 tvg-id = "ksport1hd" group-title = "Khích TV K+ Clip" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/fxxda3tb_k-sport1b118c9aa73fa0dff5b4b412563b03e7f_296_168.png", K+SPORT1 HD hích TV K+
+http://plus.vthanhtivi.pw/hohuugiang/19052000/34.m3u8
+#EXTINF: -1 tvg-id = "ksport2hd" group-title = "Khích TV K+ Clip" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.png", K+SPORT2 HD hích TV K+
+http://plus.vthanhtivi.pw/hohuugiang/19052000/35.m3u8
 #EXTINF:-1 group-title="THE THAO", ON SPORT1 HD
 https://lshstream.xyz/hls/allsportsicu01/index.m3u8
 #EXTINF:-1 group-title="THE THAO", ON SPORT2 HD
